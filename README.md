@@ -1,16 +1,13 @@
 # ABOUT
-Current second-year B.S. student in the Department of Applied Mathematics & Statistics at Johns Hopkins University, with a second major in Computer Science. At the Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), I work on artificial intelligence and healthcare projects centered around data-driven physiological subphenotype discovery using unsupervised machine learning to better categorize heterogeneity in hospitalized populations.
+Current third-year B.S. student in the Department of Applied Mathematics & Statistics at Johns Hopkins University, with an additional major in Computer Science. At Hopkins, I work on computer vision and statistical modeling projects, advised by [Dr. Mario Micheli](https://engineering.jhu.edu/faculty/mario-micheli) and [Dr. Anton Dahbura](https://engineering.jhu.edu/faculty/anton-dahbura), centered on Bayesian optical flow estimation using Gaussian process regression, and object detection / distance estimation using deep convolutional neural networks.
+
+# PRIOR EXPERIENCE
+Previously, I conducted research with the Johns Hopkins Medical Institute's [Laboratory of Computational Intensive Care Medicine](https://lcicm.jhmi.edu), where I worked on projects relating to unsupervised learning for phenotype discovery in critical care patients. I also worked with [Dr. John Edison](https://engineering.jhu.edu/faculty/john-rajadayakaran-edison) and Johns Hopkins Makerspace to develop wearable position-tracking IoT devices for sports analytics. See my [CV](https://awang124.github.io) for details.
 
 # PROJECTS
-My [website](https://awang124.github.io) showcases several data science projects I completed during the summer of 2024, from most to least recent. Each page corresponds to one project, and contains a general description, code, detailed explanations of procedures and methodologies, and results.
+My [website](https://awang124.github.io) showcases several of my personal machine learning projects, including cardiac arrhythmia detection, stock price forecasting, and spam email detection.
 
-# EDUCATION
-#### RELEVANT COURSES
-Fall 2024: Honors Probability, Optimization, Data Structures, Computer Systems <br>
-Spring 2024: Honors Linear Algebra, Differential Equations, Intermediate Programming <br>
-Fall 2023: Multivariate Calculus, Discrete Mathematics, Gateway Computing
-
-#### INDEPENDENT STUDY
-[Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) by Aurelien Geron <br>
-[R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham <br>
-[Practical SQL](https://www.practicalsql.com/) by Anthony DeBarros <br>
+# EDUCATION (COURSEWORK)
+Fall 2025: Statistical Learning Theory, Bayesian Statistics, Time Series Analysis, Matrix Analysis
+Spring 2025: Deep Learning, Computer Vision, Mathematical Statistics, Stochastic Processes
+Earlier: Probability, Optimization, Linear Algebra, Data Structures, etc
